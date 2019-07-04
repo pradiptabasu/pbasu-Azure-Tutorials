@@ -32,3 +32,15 @@
 * jump server for windows & linux
 * bastion host for windows & linux
 * CyberArk
+
+
+# Azure Functions access to Azure Storage Account Firewall
+* https://stackoverflow.com/questions/56076511/azure-functions-access-to-azure-storage-account-firewall
+* https://stackoverflow.com/questions/52217589/azure-storage-firewall-open-to-azure-app-service
+* https://feedback.azure.com/forums/217298-storage/suggestions/34523428-enable-storage-account-firewall-to-access-from-app
+* https://kvaes.wordpress.com/2019/03/10/hardening-your-azure-storage-account-by-using-service-endpoints/
+* https://blog.tyang.org/2018/09/21/azure-policy-to-restrict-storage-account-firewall-rules/
+* https://zimmergren.net/secure-your-azure-storage-accounts-using-allowed-ip-address-or-range/
+* https://pacodelacruzag.wordpress.com/category/azure/azure-functions/
+* 
+* 
